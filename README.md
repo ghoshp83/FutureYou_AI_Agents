@@ -335,8 +335,6 @@ MIT License - See [LICENSE](LICENSE) file for details.
 ## 🙏 Acknowledgments
 
 - Built with Google Gemini 3 Pro
-- Developed for Google AI Agents Intensive Program
-- Track 4: Freestyle Category
 
 ---
 
