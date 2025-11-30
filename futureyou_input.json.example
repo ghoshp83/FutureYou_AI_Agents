@@ -1,0 +1,21 @@
+{
+  "user_profile": {
+    "user_id": "your_unique_id",
+    "age": 28,
+    "current_role": "Your Current Job Title",
+    "experience_years": 5,
+    "current_salary": 100000,
+    "location": "Your City",
+    "education": "Your Education Background",
+    "skills": ["Skill 1", "Skill 2", "Skill 3"],
+    "interests": ["Interest 1", "Interest 2", "Interest 3"],
+    "life_goals": ["Goal 1", "Goal 2", "Goal 3"],
+    "past_decisions": [
+      "Major decision 1 you made in the past",
+      "Major decision 2 you made in the past"
+    ]
+  },
+  "decision": "Your decision question here. Be specific about the options and context.",
+  "timelines": ["1yr", "3yr", "5yr"],
+  "generate_visuals": true
+}

@@ -34,8 +34,8 @@ cd futureyou-ai-agents
 
 1. **Edit the input file:**
 ```bash
-cp futureyou_input.json.example futureyou_input.json
 # Edit futureyou_input.json with your information
+# (File already contains example data you can modify)
 ```
 
 2. **Run the simulation:**
