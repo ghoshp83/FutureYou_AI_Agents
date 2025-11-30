@@ -320,9 +320,7 @@ Personalized advice based on individual DNA:
 
 ## 🤝 Contributing
 
-This project was developed as part of the Google AI Agents Intensive Capstone Project (Track 4: Freestyle).
-
-Contributions, issues, and feature requests are welcome!
+Contributions, issues and feature requests are welcome!
 
 ---
 
