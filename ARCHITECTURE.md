@@ -62,7 +62,7 @@ FutureYou is built as a multi-agent system where five specialized AI agents work
 4. Extracts decision-making patterns
 5. Determines emotional drivers
 
-**Key Feature:** First system to quantify personal decision-making DNA
+**Key Feature:** Unique system to quantify personal decision-making DNA
 
 ### 2. SimulatorAgent (Parallel Processing)
 
