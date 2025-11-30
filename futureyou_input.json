@@ -1,0 +1,21 @@
+{
+  "user_profile": {
+    "user_id": "user_001",
+    "age": 28,
+    "current_role": "Software Engineer",
+    "experience_years": 5,
+    "current_salary": 120000,
+    "location": "San Francisco",
+    "education": "BS Computer Science",
+    "skills": ["Python", "Machine Learning", "Cloud"],
+    "interests": ["AI", "Startups", "Travel"],
+    "life_goals": ["Financial independence", "Work-life balance", "Make impact"],
+    "past_decisions": [
+      "Chose stable job over startup (2 years ago)",
+      "Invested in index funds over crypto (1 year ago)"
+    ]
+  },
+  "decision": "Should I join an AI startup as founding engineer (equity-heavy, lower salary) or stay at FAANG with promotion track?",
+  "timelines": ["1yr", "3yr", "5yr"],
+  "generate_visuals": true
+}
