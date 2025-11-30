@@ -298,7 +298,7 @@ Edit `futureyou_input.json` to customize:
 ## 📈 Innovation Highlights
 
 ### Decision DNA™
-First system to extract and quantify personal decision-making patterns:
+Unique system to extract and quantify personal decision-making patterns:
 - Risk tolerance scoring (0-1 scale)
 - Value priority ranking
 - Historical pattern analysis
