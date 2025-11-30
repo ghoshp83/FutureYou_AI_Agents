@@ -213,7 +213,7 @@ def create_html_report(result, user_profile, decision, output_dir):
             <h2>🔍 Analysis Insights</h2>
             <div style="background: #e8f4fd; padding: 20px; border-radius: 8px;">
                 <p><strong>Best Scenario:</strong> {result['analysis'].get('best_scenario', 'N/A')}</p>
-                <p><strong>Risk Assessment:</strong> {result['analysis'].get('risk_analysis', {}).get('description', 'N/A')}</p>
+                <p><strong>Risk Assessment:</strong> {result['analysis'].get('risk_analysis', 'N/A')}</p>
             </div>
         </div>
 
