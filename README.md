@@ -39,8 +39,8 @@ cp .env.example .env
 **Alternative: Direct Clone (Read-only)**
 ```bash
 # For quick testing without contributing
-git clone https://github.com/pghosh5/futureyou-ai-agents.git
-cd futureyou-ai-agents
+git clone https://github.com/ghoshp83/FutureYou_AI_Agents.git
+cd FutureYou_AI_Agents
 ```
 
 ### Pre-flight Check
